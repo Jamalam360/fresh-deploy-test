@@ -1,4 +1,4 @@
-import { HandlerContext } from "../server_deps.ts";
+import { HandlerContext } from "../../server_deps.ts";
 
 // Jokes courtesy of https://punsandoneliners.com/randomness/programmer-jokes/
 const JOKES = [
